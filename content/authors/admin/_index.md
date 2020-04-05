@@ -43,7 +43,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
  - icon: envelope
-#  icon_pack: fas
+  icon_pack: fas
   link: '#contact'  # For a direct email link, use "remi.vine@graduateinstitute.ch".
 # - icon: twitter
 #  icon_pack: fab
