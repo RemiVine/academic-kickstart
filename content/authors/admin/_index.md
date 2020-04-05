@@ -15,7 +15,7 @@ role: PhD Student
 # Organizations/Affiliations
 organizations:
 - name: Graduate Institute - Geneva
-  url: ""
+  url: "https://graduateinstitute.ch/Homepage"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research relates to migration topics (choice of mobility, impact of remittances on the left behind, the costs of transferring money, etc.).
