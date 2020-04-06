@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Project 1"
   url = ""
   certificate_url = ""
-  date_start = ""
+  date_start = "2018-10-01"
   date_end = ""
   description = "Abstract"
 
