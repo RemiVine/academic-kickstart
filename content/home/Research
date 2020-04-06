@@ -15,16 +15,9 @@ subtitle = ""
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[Research]]
 title = "Project 1"
-description = """
+description = "Attempt"
   
-# Automatically link email and phone?
-autolink = true
 
-# Email form provider
-#   0: Disable email form
-#   1: Netlify (requires that the site is hosted by Netlify)
-#   2: formspree.io
-email_form = 2
 +++
 
 
