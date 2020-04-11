@@ -5,7 +5,7 @@
 #  active = true  # Activate this widget? true/false
 #  weight = 50  # Order that this section will appear.
 
- title = "Research"
+# title = "Research"
 # subtitle = ""
 
 # Date format
