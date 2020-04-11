@@ -8,12 +8,11 @@
  weight = 90  # Order that this section will appear.
 
  title = "Ongoing Research"
-# subtitle = ""
+ subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
- # page_type = "publication"
-    page_type = "post"
+  page_type = "publication"
 
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -25,11 +24,11 @@
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
+ [content.filters]
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+ #   author = ""
     exclude_featured = false
   
 [design]
