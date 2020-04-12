@@ -28,8 +28,9 @@
     tag = ""
     category = ""
     publication_type = ""
- #   author = ""
     exclude_featured = false
+
+ #   author = ""
   
 [design]
   # Toggle between the various page layout types.
@@ -66,9 +67,6 @@
  # CSS class.
  css_class = ""
  
- # {{% alert note %}}
-# Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-# {{% /alert %}}
 +++
 
 
