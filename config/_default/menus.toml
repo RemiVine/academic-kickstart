@@ -9,14 +9,19 @@
   weight = 10
 
 [[main]]
+  name = "CV"
+  url = "img/Rémi VINE EN2020.pdf"
+  weight = 20
+
+[[main]]
   name = "French"
   url = "#posts"
-  weight = 60
+  weight = 30
 
 [[main]]
   name = "Research"
   url = "#publications"
-  weight = 90
+  weight = 40
 
 #[[main]]
 #  name = "Publications"
@@ -26,7 +31,7 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 130
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
